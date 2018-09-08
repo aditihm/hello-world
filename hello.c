@@ -8,12 +8,13 @@ void name()
 }
 void bored()
 {
+    printf("How about me you ask?\n");
     printf("Mood : Bored -_- \n");
 }
     
 void main()
 {
-    printf("hello world!");
+    printf("\t hello world!\n");
     //coding is fun
     //I *heart* eating and sleeping ;)
     name();
